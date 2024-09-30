@@ -38,7 +38,7 @@ pip install opencv-python cvzone pyttsx3
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/virtual-hand-calculator.git
+   git clone https://github.com/whisplnspace/CalCit.git
    cd virtual-hand-calculator
    ```
 
@@ -52,10 +52,10 @@ pip install opencv-python cvzone pyttsx3
 
 3. **Run the Program**:
 
-   Run the `virtual_calculator.py` file using Python:
+   Run the `main.py` file using Python:
 
    ```bash
-   python virtual_calculator.py
+   python main.py
    ```
 
    Make sure your webcam is active and functioning, as the hand tracking requires a live video feed.
@@ -98,7 +98,7 @@ We welcome contributions from the community! If you're interested in improving t
 2. **Clone Your Fork**: Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/virtual-hand-calculator.git
+   git clone https://github.com/whisplnspace/calCit.git
    ```
 
 3. **Create a New Branch**: Create a branch for your feature or bug fix.
