@@ -10,9 +10,6 @@ A **virtual calculator** that uses hand gestures for input, built using OpenCV, 
 - **Basic Operations**: Supports fundamental operations like addition, subtraction, multiplication, division, and parentheses for complex expressions.
 - **Clear and Delete Function**: Use `C` to clear the equation or `del` to delete the last input.
 
-## Demo
-
-![Virtual Calculator Demo](demo-gif-link) *(Include a link or gif showing the calculator in action)*
 
 ## Requirements
 
@@ -73,7 +70,6 @@ pip install opencv-python cvzone pyttsx3
 
 ### Demo Video
 
-https://github.com/user-attachments/assets/92938c86-ad34-43b2-b5fd-d016dd5f1261
 
 
 ## Screenshots
