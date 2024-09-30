@@ -71,6 +71,11 @@ pip install opencv-python cvzone pyttsx3
 
 - **Press 'q'**: Close the program and exit.
 
+### Demo Video
+
+https://github.com/user-attachments/assets/92938c86-ad34-43b2-b5fd-d016dd5f1261
+
+
 ## Screenshots
 
 ### Calculator Interface
