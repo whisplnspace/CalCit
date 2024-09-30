@@ -77,7 +77,8 @@ https://github.com/user-attachments/assets/5e0d75a9-dc96-47d6-9e7e-aea367b7bf5e
 ## Screenshots
 
 ### Calculator Interface
-![Calculator Interface](screenshot-link)
+
+![Cal_cit](https://github.com/user-attachments/assets/3e9e2d3e-cc5a-47ad-923d-ab3cfdd1eb92)
 
 *(Include a screenshot of the calculator interface here.)*
 
