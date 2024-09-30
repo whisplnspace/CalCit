@@ -71,6 +71,8 @@ pip install opencv-python cvzone pyttsx3
 ### Demo Video
 
 
+https://github.com/user-attachments/assets/5e0d75a9-dc96-47d6-9e7e-aea367b7bf5e
+
 
 ## Screenshots
 
